@@ -1,0 +1,14 @@
+{
+  "name": "cilearning",
+  "version": "1.0.0",
+  "main": "math.js",
+  "scripts": {
+    "test unit": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}

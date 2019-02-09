@@ -8,8 +8,8 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "dependencies": {
-    "mocha": "^5.2.0",
-    "nyc": "^13.2.0"
+  "devDependencies": {
+    "nyc": "^13.2.0",
+    "mocha": "^5.2.0"
   }
 }
